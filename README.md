@@ -1,6 +1,6 @@
 # Flash
 
-⚡️A highly customizable, powerful and easy-to-use alerting library for
+⚡  ️A highly customizable, powerful and easy-to-use alerting library for
 Flutter.
 
 Website: [https://sososdk.github.io/flash](https://sososdk.github.io/flash)
@@ -14,7 +14,7 @@ and easily**. It can be used as an alternative to `Snackbar` or `Toast`
 or `Dialog` and offers a plethora of useful features and customization
 options for you to play with.
 
-It has been written **100% in Dart**. ❤️
+It has been written **100% in Dart**. ❤ ️
 
 ![](./doc/images/banner.png)
 
